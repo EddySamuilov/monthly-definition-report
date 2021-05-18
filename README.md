@@ -1,1 +1,2 @@
 # monthly-definition-report
+The app receive 2 command-line arguments - paths to JSON data files with entities and the report. Then in services the provided JSON files are parsed to the correct entities and for each of them is created a new Instance.  Then the score for each Employee is calculated. After that is calculated the minimum score bound, which is given as percent of all scores(like if total score is 100 and we want first 10% the minimum score bound will be 90). We generate the CSV file and if the employee meets the criteria we add them to the report.
