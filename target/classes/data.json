@@ -1,0 +1,32 @@
+[
+  {
+    "name": "John Smith",
+    "totalSales": 250,
+    "salesPeriod": 10,
+    "experienceMultiplier": 0.5
+  },
+  {
+    "name": "David Prowless",
+    "totalSales": 250,
+    "salesPeriod": 12,
+    "experienceMultiplier": 1.8
+  },
+  {
+    "name": "Michelle Lewis",
+    "totalSales": 130,
+    "salesPeriod": 9,
+    "experienceMultiplier": 19.1
+  },
+  {
+    "name": "Peter Stewart",
+    "totalSales": 260,
+    "salesPeriod": 10,
+    "experienceMultiplier": 1.5
+  },
+  {
+    "name": "Stewart Dawning",
+    "totalSales": 130,
+    "salesPeriod": 12,
+    "experienceMultiplier": 2.5
+  }
+]
